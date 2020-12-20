@@ -1,0 +1,12 @@
+=========================
+
+DEC 20 , 2020
+
+=========================
+
++ Kernel Upstreamed to V4.4.248
++ Fixed Night Light
++ Updated Twrp to 3.4.0_10
++ Refactor Apex
++ Added Xiaomi Parts
+
