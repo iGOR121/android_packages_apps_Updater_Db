@@ -1,0 +1,17 @@
+=========================
+
+JAN 01 , 2021
+
+=========================
+
++ SpiceOS V2.2
++ Kernel Upstreamed to V4.4.249
++ mm: speed up mremap by 20x on large regions
++ gcc-sdm660: overclock I2C and SPI to 800mhz
++ net: wireguard: update wireguard to version v1.0.20201221
++ Merge tag 'LA.UM.9.2.r1-01800-SDMxx0.0'
++ mdss: mdp: Default to 258 kcal saturation
++ sdm660-common: Decommonize sensor blob
++ sdm660-common: props: enable vsync and disable backpressure
++ sdm660-common: Update WFD and Time services from LA.UM.9.6.2.r1-02500-89xx.0 (WFD still in WIP)
++ sdm660-common: Update perfd from taimen RP1A.201005.004

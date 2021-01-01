@@ -1,0 +1,24 @@
+{
+	"response": [
+		{
+			"maintainer": "Anush Madathumkara (Anush02198)",
+			"oem": "Xiaomi",
+			"device": "Mi 6X",
+			"filename": "SpiceOS-2.2-NEW_ERA-20210101-wayne-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/spiceos/files/11/wayne/SpiceOS-2.2-NEW_ERA-20210101-wayne-OFFICIAL.zip/download",
+			"timestamp": 1609478380,
+			"md5": "2a448befca26c56b482e1f7a9a3f5cfe",
+			"size": 895329352,
+			"version": "2.2",
+			"buildtype": "Stable",
+			"forum": "https://forum.xda-developers.com/t/rom-official-11-0-spiceos-2-2-new_era-wayne.4196063/",
+			"gapps": "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/BETA/2020-11-27/FlameGApps-11.0-basic-arm64-20201127-BETA.zip/download",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/spiceosmia2"
+		}
+	]
+}
