@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+        "maintainer": "Igor Ch (iGOR121)",
+        "oem": "Xiaomi",
+        "device": "Mi Note 10 Lite",
+        "filename": "SpiceOS-3.1-STABLE-20210509-toco-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/spiceos/files/11/toco/SpiceOS-3.1-STABLE-20210509-toco-OFFICIAL.zip/download",
+        "timestamp": 1620563029,
+        "md5": "3a2b2673585f64b9610ad342931364bc",
+        "size": 1226481903,
+        "version": "3.1",
+        "buildtype": "Stable",
+        "forum": "https://forum.xda-developers.com/t/rom-11-unofficial-toco-spiceos-3-0.4270195/",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": ""
+    }
+  ]
+}
