@@ -1,4 +1,4 @@
-=========================
+﻿=========================
 
 MAY 9 , 2021
 
@@ -13,3 +13,13 @@ MAY 10 , 2021
 =========================
 
 + updated broken build
+
+=========================
+
+MAY 18 , 2021
+
+=========================
+
++ fixed IR
++ fixed haptics driver
++ VantomKernel isn’t default anymore
