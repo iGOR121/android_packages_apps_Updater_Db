@@ -23,3 +23,13 @@ MAY 18 , 2021
 + fixed IR
 + fixed haptics driver
 + VantomKernel isn’t default anymore
+
+=========================
+
+JUNE 12 , 2021
+
+=========================
+
++ update to 3.2
++ june security patch
+
